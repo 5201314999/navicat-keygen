@@ -18,7 +18,7 @@
      
      __这个参数是可选的。__ 如果未指定，`navicat-patcher.exe`将会在当前目录生成一个新的RSA-2048私钥文件。
 
-   __例如：(在cmd.exe中)__ 
+   __例如：(在cmd.exe中,切换到navicat-patcher.exe 文件夹下运行)__ 
 
    ```
    navicat-patcher.exe "C:\Program Files\PremiumSoft\Navicat Premium 12"
@@ -133,7 +133,7 @@
      
      __这个参数必须指定。__
 
-   __例如：(在cmd.exe中)__ 
+   __例如：(在cmd.exe中，切换到navicat-patcher.exe 文件夹下运行)__ 
 
    ```bash
    navicat-keygen.exe -text .\RegPrivateKey.pem
